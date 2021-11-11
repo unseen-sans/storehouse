@@ -1,8 +1,12 @@
 # storehouse
-hi there
+hi there!
+
 this library is for birthdayers...
+
 wait......
+
 will anyone really watch it?
+
 
 em, here's an article that you can waste your time
 
