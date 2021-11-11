@@ -1,4 +1,4 @@
-# storehouse
+# storehouse for birthday person
 hi there!
 
 this library is for birthdayers...
