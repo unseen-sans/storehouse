@@ -1,7 +1,7 @@
-# storehouse for birthday person
+# storehouse
 hi there!
 
-this library is for birthdayers...
+this is a library for what i have done 
 
 wait......
 
